@@ -11,7 +11,7 @@
 ### Blood Request
 ![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/bloodrequest.png?raw=true)
 ### Logout
-![doctor snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/logout.png?raw=true)
+![doctor snap](https://github.com/rabbani4u/BloodBank/blob/master/static/screenshot/logout.png)
 ---
 ## Functions
 
