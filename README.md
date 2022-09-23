@@ -3,7 +3,7 @@
 ---
 ## Screenshots
 ### Homepage
-![homepage snap](https://github.com/rabbani4u/BloodBank/blob/master/static/screenshot/homepage.png)
+![homepage snap](https://github.com/rabbani4u/BloodBank/blob/master/static/screenshot/homepage.PNG)
 ### Admin Dashboard
 ![dashboard snap](https://github.com/sumitkumar1503/bloodbankmanagement/blob/master/static/screenshot/admindashboard.png?raw=true)
 ### Blood Donation 
